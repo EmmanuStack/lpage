@@ -26,7 +26,7 @@ Full tech stack [here](/tech.md)
 # Stack Report
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/lpage](https://github.com/EmmanuStack/lpage)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|4<br/>Contributors|11/05/23 <br/>Report generated|10/28/23<br/>Last commit date|
+|14<br/>Tools used|4<br/>Contributors|11/06/23 <br/>Report generated|10/28/23<br/>Last commit date|
 |------|------|------|------|
 </div>
 
