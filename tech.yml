@@ -1,11 +1,11 @@
 repo_name: EmmanuStack/lpage
-report_id: 7997b640fd18094f9f534531410baaa9
+report_id: 402f7600c42d9bb5259060dda54472a5
 repo_type: Public
-timestamp: '2023-11-06T14:26:28+00:00'
+timestamp: '2023-11-06T14:53:37+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: master
-detected_tools_count: 14
+detected_tools_count: 15
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -16,7 +16,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   imageURL: https://img.stackshare.io/service/1209/javascript.jpeg
-  detection_source: Repo Metadata
+  detection_source:
+  - Repo Metadata
 - name: Autoprefixer
   description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
   website_url: https://github.com/postcss/autoprefixer
@@ -25,7 +26,8 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   imageURL: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
-  detection_source: package.json
+  detection_source:
+  - package.json
 - name: Bootstrap
   description: Simple and flexible HTML, CSS, and JS for popular UI components and
     interactions
@@ -38,7 +40,8 @@ tools:
   sub_category: Front-End Frameworks
   imageURL: https://img.stackshare.io/service/1101/C9QJ7V3X.png
   detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source:
+  - package.json
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -47,7 +50,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   imageURL: https://img.stackshare.io/service/1046/git.png
-  detection_source: Repo Metadata
+  detection_source:
+  - Repo Metadata
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
   website_url: https://prettier.io/
@@ -59,7 +63,8 @@ tools:
   sub_category: Code Review
   imageURL: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
   detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source:
+  - package.json
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -68,7 +73,15 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   imageURL: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
-  detection_source: package.json
+  detection_source:
+  - package.json
+- name: NPM Trends
+  website_url: https://www.npmtrends.com/
+  open_source: false
+  hosted_saas: false
+  imageURL: https://img.stackshare.io/service/12294/empty-logo-square.png
+  detection_source:
+  - package-lock.json
 - name: browser-sync
   description: Live CSS Reload &amp; Browser Syncing
   package_url: https://www.npmjs.com/browser-sync
@@ -80,7 +93,8 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
   detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source:
+  - package.json
 - name: chokidar
   description: A neat wrapper around node.js fs.watch / fs.watchFile / fsevents
   package_url: https://www.npmjs.com/chokidar
@@ -92,7 +106,8 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/16043/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
   detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source:
+  - package.json
 - name: concurrently
   description: Run commands concurrently
   package_url: https://www.npmjs.com/concurrently
@@ -104,7 +119,8 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
   detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source:
+  - package.json
 - name: postcss
   description: Tool for transforming styles with JS plugins
   package_url: https://www.npmjs.com/postcss
@@ -116,7 +132,8 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/16012/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
   detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source:
+  - package.json
   vulnerabilities:
   - name: PostCSS line return parsing error
     cve_id: CVE-2023-44270
@@ -135,7 +152,8 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/16227/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
   detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source:
+  - package.json
 - name: sass
   description: A pure JavaScript implementation of Sass
   package_url: https://www.npmjs.com/sass
@@ -147,7 +165,8 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
   detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source:
+  - package.json
 - name: shelljs
   description: Portable Unix shell commands for Node.js
   package_url: https://www.npmjs.com/shelljs
@@ -159,7 +178,8 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
   detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source:
+  - package.json
 - name: upath
   description: A proxy to `path`
   package_url: https://www.npmjs.com/upath
@@ -171,4 +191,5 @@ tools:
   sub_category: npm Packages
   imageURL: https://img.stackshare.io/package/18193/default_63c787c86dc2f82d999c8bfdd3f0cd4aa18c2145.png
   detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source:
+  - package.json
