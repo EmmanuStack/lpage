@@ -111,16 +111,16 @@ Full tech stack [here](/tech.md)
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (8)
 
-|NAME|VERSION|SOURCE FILE|License|Vulnerabilities|
-|------|------|------|------|------|
-|[browser-sync](https://browsersync.io/)|v2.29.1|[package-lock.json](https://github.com/EmmanuStack/lpage/blob/master/package-lock.json)|Apache-2.0|N/A|
-|[chokidar](https://github.com/paulmillr/chokidar)|v3.5.3|[package-lock.json](https://github.com/EmmanuStack/lpage/blob/master/package-lock.json)|MIT|N/A|
-|[concurrently](https://github.com/kimmobrunfeldt/concurrently)|v6.3.0|[package-lock.json](https://github.com/EmmanuStack/lpage/blob/master/package-lock.json)|MIT|N/A|
-|[postcss](https://postcss.org/)|v8.4.21|[package-lock.json](https://github.com/EmmanuStack/lpage/blob/master/package-lock.json)|MIT|[PostCSS line retu...](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Oct 4) (moderate) (8.4.31)|
-|[pug](https://pugjs.org)|v3.0.2|[package-lock.json](https://github.com/EmmanuStack/lpage/blob/master/package-lock.json)|MIT|N/A|
-|[sass](https://github.com/sass/dart-sass)|v1.60.0|[package-lock.json](https://github.com/EmmanuStack/lpage/blob/master/package-lock.json)|MIT|N/A|
-|[shelljs](http://github.com/shelljs/shelljs)|v0.8.5|[package-lock.json](https://github.com/EmmanuStack/lpage/blob/master/package-lock.json)|BSD-3-Clause|N/A|
-|[upath](http://github.com/anodynos/upath/)|v2.0.1|[package-lock.json](https://github.com/EmmanuStack/lpage/blob/master/package-lock.json)|MIT|N/A|
+|NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
+|:------|:------|:------|:------|:------|:------|
+|[browser-sync](https://browsersync.io/)|v2.29.1|N/A|N/A |Apache-2.0|N/A|
+|[chokidar](https://github.com/paulmillr/chokidar)|v3.5.3|N/A|N/A |MIT|N/A|
+|[concurrently](https://github.com/kimmobrunfeldt/concurrently)|v6.3.0|N/A|N/A |MIT|N/A|
+|[postcss](https://postcss.org/)|v8.4.21|N/A|N/A |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
+|[pug](https://pugjs.org)|v3.0.2|N/A|N/A |MIT|N/A|
+|[sass](https://github.com/sass/dart-sass)|v1.60.0|N/A|N/A |MIT|N/A|
+|[shelljs](http://github.com/shelljs/shelljs)|v0.8.5|N/A|N/A |BSD-3-Clause|N/A|
+|[upath](http://github.com/anodynos/upath/)|v2.0.1|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
