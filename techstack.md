@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/lpage](https://github.com/EmmanuStack/lpage)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|4<br/>Contributors|11/07/23 <br/>Report generated|10/28/23<br/>Last commit date|
+|15<br/>Tools used|4<br/>Contributors|11/07/23 <br/>Report generated|10/28/23<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -107,13 +107,12 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (9)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (8)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[autoprefixer](https://www.npmjs.com/autoprefixer)|v10.4.14|N/A|N/A |MIT|N/A|
 |[browser-sync](https://www.npmjs.com/browser-sync)|v2.29.1|N/A|N/A |Apache-2.0|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|N/A|N/A |MIT|N/A|
 |[concurrently](https://www.npmjs.com/concurrently)|v6.3.0|N/A|N/A |MIT|N/A|
