@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/lpage](https://github.com/EmmanuStack/lpage)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|4<br/>Contributors|11/07/23 <br/>Report generated|10/28/23<br/>Last commit date|
+|16<br/>Tools used|4<br/>Contributors|11/07/23 <br/>Report generated|10/28/23<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -93,21 +93,35 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
+## Other (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
+  <br>
+  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
+  <br>
+  <sub></sub>
+</td>
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
+</tr>
+</table>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (8)
+
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (9)</h2>
+
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (9)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[browser-sync](https://browsersync.io/)|v2.29.1|N/A|N/A |Apache-2.0|N/A|
-|[chokidar](https://github.com/paulmillr/chokidar)|v3.5.3|N/A|N/A |MIT|N/A|
-|[concurrently](https://github.com/kimmobrunfeldt/concurrently)|v6.3.0|N/A|N/A |MIT|N/A|
-|[postcss](https://postcss.org/)|v8.4.21|N/A|N/A |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
-|[pug](https://pugjs.org)|v3.0.2|N/A|N/A |MIT|N/A|
-|[sass](https://github.com/sass/dart-sass)|v1.60.0|N/A|N/A |MIT|N/A|
-|[shelljs](http://github.com/shelljs/shelljs)|v0.8.5|N/A|N/A |BSD-3-Clause|N/A|
-|[upath](http://github.com/anodynos/upath/)|v2.0.1|N/A|N/A |MIT|N/A|
+|[autoprefixer](https://www.npmjs.com/autoprefixer)|v10.4.14|N/A|N/A |MIT|N/A|
+|[browser-sync](https://www.npmjs.com/browser-sync)|v2.29.1|N/A|N/A |Apache-2.0|N/A|
+|[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|N/A|N/A |MIT|N/A|
+|[concurrently](https://www.npmjs.com/concurrently)|v6.3.0|N/A|N/A |MIT|N/A|
+|[postcss](https://www.npmjs.com/postcss)|v8.4.21|N/A|N/A |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
+|[pug](https://www.npmjs.com/pug)|v3.0.2|N/A|N/A |MIT|N/A|
+|[sass](https://www.npmjs.com/sass)|v1.60.0|N/A|N/A |MIT|N/A|
+|[shelljs](https://www.npmjs.com/shelljs)|v0.8.5|N/A|N/A |BSD-3-Clause|N/A|
+|[upath](https://www.npmjs.com/upath)|v2.0.1|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
