@@ -1,11 +1,11 @@
 repo_name: EmmanuStack/lpage
-report_id: 171e0e44f97db718aba08a54f78d7970
+report_id: 79f4174127c521cd58f31a39d36c0dd2
 repo_type: Public
-timestamp: '2023-11-07T18:01:26+00:00'
+timestamp: '2023-11-07T18:13:52+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: master
-detected_tools_count: 16
+detected_tools_count: 15
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -75,19 +75,6 @@ tools:
   hosted_saas: false
   image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
   detection_source: package-lock.json
-- name: autoprefixer
-  description: Parse CSS and add vendor prefixes to CSS rules using values from the
-    Can I Use website
-  package_url: https://www.npmjs.com/autoprefixer
-  version: 10.4.14
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15854/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: package-lock.json
-  detection_source: package.json
 - name: browser-sync
   description: Live CSS Reload &amp; Browser Syncing
   package_url: https://www.npmjs.com/browser-sync
