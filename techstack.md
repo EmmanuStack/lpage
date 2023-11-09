@@ -26,8 +26,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/lpage](https://github.com/EmmanuStack/lpage)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|4<br/>Contributors|11/08/23 <br/>Report generated|10/28/23<br/>Last commit date|
-|------|------|------|------|
+|15<br/>Tools used|11/09/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
@@ -113,14 +113,14 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[browser-sync](https://www.npmjs.com/browser-sync)|v2.29.1|N/A|N/A |Apache-2.0|N/A|
-|[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|N/A|N/A |MIT|N/A|
-|[concurrently](https://www.npmjs.com/concurrently)|v6.3.0|N/A|N/A |MIT|N/A|
-|[postcss](https://www.npmjs.com/postcss)|v8.4.21|N/A|N/A |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
-|[pug](https://www.npmjs.com/pug)|v3.0.2|N/A|N/A |MIT|N/A|
-|[sass](https://www.npmjs.com/sass)|v1.60.0|N/A|N/A |MIT|N/A|
-|[shelljs](https://www.npmjs.com/shelljs)|v0.8.5|N/A|N/A |BSD-3-Clause|N/A|
-|[upath](https://www.npmjs.com/upath)|v2.0.1|N/A|N/A |MIT|N/A|
+|[browser-sync](https://www.npmjs.com/browser-sync)|v2.29.1|03/25/23|David Miller |Apache-2.0|N/A|
+|[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|03/22/22|David Miller |MIT|N/A|
+|[concurrently](https://www.npmjs.com/concurrently)|v6.3.0|10/18/21|David Miller |MIT|N/A|
+|[postcss](https://www.npmjs.com/postcss)|v8.4.21|03/25/23|David Miller |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
+|[pug](https://www.npmjs.com/pug)|v3.0.2|03/15/17|David Miller |MIT|N/A|
+|[sass](https://www.npmjs.com/sass)|v1.60.0|03/25/23|David Miller |MIT|N/A|
+|[shelljs](https://www.npmjs.com/shelljs)|v0.8.5|03/22/22|David Miller |BSD-3-Clause|N/A|
+|[upath](https://www.npmjs.com/upath)|v2.0.1|04/02/21|David Miller |MIT|N/A|
 
 <br/>
 <div align='center'>
