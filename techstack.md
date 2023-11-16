@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/lpage](https://github.com/EmmanuStack/lpage)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|11/09/23 <br/>Report generated|
+|15<br/>Tools used|11/16/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -96,9 +96,9 @@ Full tech stack [here](/techstack.md)
 ## Other (1)
 <table><tr>
   <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2270/no-img-open-source.png' alt='HTML'>
   <br>
-  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
+  <sub><a href="http://">HTML</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -125,4 +125,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
