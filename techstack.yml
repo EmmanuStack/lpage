@@ -1,7 +1,7 @@
 repo_name: EmmanuStack/lpage
-report_id: 56c6ea352fbdf596c144def5bce4b760
+report_id: 4babcac00e46335d1f1c04fa35e52b0e
 repo_type: Public
-timestamp: '2023-11-24T05:57:42+00:00'
+timestamp: '2023-11-30T17:05:09+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: master
@@ -26,8 +26,6 @@ tools:
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
   detection_source: package.json
-  last_updated_by: David Miller
-  last_updated_on: 2023-03-25 22:01:05.000000000 Z
 - name: Bootstrap
   description: Simple and flexible HTML, CSS, and JS for popular UI components and
     interactions
@@ -39,10 +37,18 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
-  detection_source_url: package-lock.json
+  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: David Miller
-  last_updated_on: 2023-03-25 22:01:05.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source: package.json
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -62,10 +68,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: package-lock.json
+  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: David Miller
-  last_updated_on: 2023-03-25 22:01:05.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -75,17 +79,12 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: package.json
-  last_updated_by: David Miller
-  last_updated_on: 2017-03-15 15:49:23.000000000 Z
-- name: HTML
-  description: Hypertext Markup Language for creating web pages.
-  website_url: http://
+- name: NPM Trends
+  website_url: https://www.npmtrends.com/
   open_source: false
   hosted_saas: false
-  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
-  detection_source: dist/index.html
-  last_updated_by: David Miller
-  last_updated_on: 2021-04-02 18:13:07.000000000 Z
+  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
+  detection_source: package-lock.json
 - name: browser-sync
   description: Live CSS Reload &amp; Browser Syncing
   package_url: https://www.npmjs.com/browser-sync
@@ -96,10 +95,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
-  detection_source_url: package-lock.json
+  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: David Miller
-  last_updated_on: 2023-03-25 22:01:05.000000000 Z
 - name: chokidar
   description: A neat wrapper around node.js fs.watch / fs.watchFile / fsevents
   package_url: https://www.npmjs.com/chokidar
@@ -110,10 +107,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16043/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: package-lock.json
+  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: David Miller
-  last_updated_on: 2022-03-22 20:35:55.000000000 Z
 - name: concurrently
   description: Run commands concurrently
   package_url: https://www.npmjs.com/concurrently
@@ -124,31 +119,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: package-lock.json
+  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: David Miller
-  last_updated_on: 2021-10-18 22:57:29.000000000 Z
-- name: postcss
-  description: Tool for transforming styles with JS plugins
-  package_url: https://www.npmjs.com/postcss
-  version: 8.4.21
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16012/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: package-lock.json
-  detection_source: package.json
-  last_updated_by: David Miller
-  last_updated_on: 2023-03-25 22:01:05.000000000 Z
-  vulnerabilities:
-  - name: PostCSS line return parsing error
-    cve_id: CVE-2023-44270
-    cve_url: https://github.com/advisories/GHSA-7fh5-64p2-3v2j
-    detected_date: Oct 4
-    severity: moderate
-    first_patched: 8.4.31
 - name: pug
   description: A clean
   package_url: https://www.npmjs.com/pug
@@ -159,10 +131,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16227/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: package-lock.json
+  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: David Miller
-  last_updated_on: 2017-03-15 15:49:23.000000000 Z
 - name: sass
   description: A pure JavaScript implementation of Sass
   package_url: https://www.npmjs.com/sass
@@ -173,10 +143,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: package-lock.json
+  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: David Miller
-  last_updated_on: 2023-03-25 22:01:05.000000000 Z
 - name: shelljs
   description: Portable Unix shell commands for Node.js
   package_url: https://www.npmjs.com/shelljs
@@ -187,10 +155,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: package-lock.json
+  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: David Miller
-  last_updated_on: 2022-03-22 20:35:55.000000000 Z
 - name: upath
   description: A proxy to `path`
   package_url: https://www.npmjs.com/upath
@@ -201,7 +167,5 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18193/default_63c787c86dc2f82d999c8bfdd3f0cd4aa18c2145.png
-  detection_source_url: package-lock.json
+  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
-  last_updated_by: David Miller
-  last_updated_on: 2021-04-02 18:13:07.000000000 Z
