@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/lpage](https://github.com/EmmanuStack/lpage)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|12/07/23 <br/>Report generated|
+|15<br/>Tools used|12/08/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -147,11 +147,11 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[browser-sync](https://www.npmjs.com/browser-sync)|v2.29.1|N/A|N/A |Apache-2.0|N/A|
-|[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|N/A|N/A |MIT|N/A|
-|[concurrently](https://www.npmjs.com/concurrently)|v6.3.0|N/A|N/A |MIT|N/A|
-|[shelljs](https://www.npmjs.com/shelljs)|v0.8.5|N/A|N/A |BSD-3-Clause|N/A|
-|[upath](https://www.npmjs.com/upath)|v2.0.1|N/A|N/A |MIT|N/A|
+|[browser-sync](https://www.npmjs.com/browser-sync)|v2.29.1|03/25/23|David Miller |Apache-2.0|N/A|
+|[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|03/22/22|David Miller |MIT|N/A|
+|[concurrently](https://www.npmjs.com/concurrently)|v6.3.0|10/18/21|David Miller |MIT|N/A|
+|[shelljs](https://www.npmjs.com/shelljs)|v0.8.5|03/22/22|David Miller |BSD-3-Clause|N/A|
+|[upath](https://www.npmjs.com/upath)|v2.0.1|04/02/21|David Miller |MIT|N/A|
 
 <br/>
 <div align='center'>
