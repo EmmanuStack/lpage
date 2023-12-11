@@ -1,7 +1,7 @@
 repo_name: EmmanuStack/lpage
-report_id: b3aaa08b8f84af03e67914fffb3d1b8b
+report_id: ec5743a4b72fb226b7c5f5acd9d2471d
 repo_type: Public
-timestamp: '2023-12-08T22:05:52+00:00'
+timestamp: '2023-12-11T20:04:47+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: master
@@ -112,15 +112,14 @@ tools:
   detection_source: package.json
   last_updated_by: David Miller
   last_updated_on: 2017-03-15 15:49:23.000000000 Z
-- name: HTML
-  description: Hypertext Markup Language for creating web pages.
-  website_url: http://
+- name: NPM Trends
+  website_url: https://www.npmtrends.com/
   open_source: false
   hosted_saas: false
-  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
-  detection_source: dist/index.html
+  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
+  detection_source: package-lock.json
   last_updated_by: David Miller
-  last_updated_on: 2021-04-02 18:13:07.000000000 Z
+  last_updated_on: 2017-11-15 21:52:22.000000000 Z
 - name: browser-sync
   description: Live CSS Reload &amp; Browser Syncing
   package_url: https://www.npmjs.com/browser-sync
