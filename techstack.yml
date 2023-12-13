@@ -1,7 +1,7 @@
 repo_name: EmmanuStack/lpage
-report_id: ec5743a4b72fb226b7c5f5acd9d2471d
+report_id: d575c8dc58abbf547726cb117d8e3d24
 repo_type: Public
-timestamp: '2023-12-11T20:04:47+00:00'
+timestamp: '2023-12-13T11:56:26+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: master
@@ -50,7 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
-  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
+  detection_source_url: https://github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: David Miller
   last_updated_on: 2023-03-25 22:01:05.000000000 Z
@@ -97,7 +97,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
+  detection_source_url: https://github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: David Miller
   last_updated_on: 2023-03-25 22:01:05.000000000 Z
@@ -112,14 +112,15 @@ tools:
   detection_source: package.json
   last_updated_by: David Miller
   last_updated_on: 2017-03-15 15:49:23.000000000 Z
-- name: NPM Trends
-  website_url: https://www.npmtrends.com/
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
   open_source: false
   hosted_saas: false
-  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
-  detection_source: package-lock.json
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: dist/index.html
   last_updated_by: David Miller
-  last_updated_on: 2017-11-15 21:52:22.000000000 Z
+  last_updated_on: 2021-04-02 18:13:07.000000000 Z
 - name: browser-sync
   description: Live CSS Reload &amp; Browser Syncing
   package_url: https://www.npmjs.com/browser-sync
@@ -130,7 +131,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
-  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
+  detection_source_url: https://github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: David Miller
   last_updated_on: 2023-03-25 22:01:05.000000000 Z
@@ -144,7 +145,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16043/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
+  detection_source_url: https://github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: David Miller
   last_updated_on: 2022-03-22 20:35:55.000000000 Z
@@ -158,7 +159,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
+  detection_source_url: https://github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: David Miller
   last_updated_on: 2021-10-18 22:57:29.000000000 Z
@@ -172,7 +173,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
+  detection_source_url: https://github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: David Miller
   last_updated_on: 2022-03-22 20:35:55.000000000 Z
@@ -186,7 +187,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18193/default_63c787c86dc2f82d999c8bfdd3f0cd4aa18c2145.png
-  detection_source_url: github.com/EmmanuStack/lpage/blob/master/package-lock.json
+  detection_source_url: https://github.com/EmmanuStack/lpage/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: David Miller
   last_updated_on: 2021-04-02 18:13:07.000000000 Z
