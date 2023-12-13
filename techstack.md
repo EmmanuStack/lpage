@@ -36,11 +36,11 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/lpage](https://github.com/EmmanuStack/lpage)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|12/13/23 <br/>Report generated|
+|18<br/>Tools used|12/13/23 <br/>Report generated|
 |------|------|
 </div>
 
-## <img src='https://img.stackshare.io/languages.svg'/> Languages (2)
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'>
@@ -50,49 +50,17 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/1175/pug.png' alt='Pug'>
-  <br>
-  <sub><a href="https://pugjs.org">Pug</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (4)
+## <img src='https://img.stackshare.io/frameworks.svg'/> Frameworks (1)
 <table><tr>
   <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'>
-  <br>
-  <sub><a href="https://github.com/postcss/autoprefixer">Autoprefixer</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'>
   <br>
   <sub><a href="http://getbootstrap.com/">Bootstrap</a></sub>
   <br>
   <sub>v5.2.3</sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'>
-  <br>
-  <sub><a href="https://github.com/postcss/postcss">PostCSS</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'>
-  <br>
-  <sub><a href="http://sass-lang.com/">Sass</a></sub>
-  <br>
-  <sub></sub>
 </td>
 
 </tr>
@@ -127,12 +95,44 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (1)
+## Other (5)
 <table><tr>
   <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/2270/no-img-open-source.png' alt='HTML'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'>
   <br>
-  <sub><a href="http://">HTML</a></sub>
+  <sub><a href="https://github.com/postcss/autoprefixer">Autoprefixer</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
+  <br>
+  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'>
+  <br>
+  <sub><a href="https://github.com/postcss/postcss">PostCSS</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1175/pug.png' alt='Pug'>
+  <br>
+  <sub><a href="https://pugjs.org">Pug</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'>
+  <br>
+  <sub><a href="http://sass-lang.com/">Sass</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -141,15 +141,18 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (5)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (5)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (8)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[autoprefixer](https://www.npmjs.com/autoprefixer)|v10.4.14|03/25/23|David Miller |MIT|N/A|
 |[browser-sync](https://www.npmjs.com/browser-sync)|v2.29.1|03/25/23|David Miller |Apache-2.0|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|03/22/22|David Miller |MIT|N/A|
 |[concurrently](https://www.npmjs.com/concurrently)|v6.3.0|10/18/21|David Miller |MIT|N/A|
+|[pug](https://www.npmjs.com/pug)|v3.0.2|03/15/17|David Miller |MIT|N/A|
+|[sass](https://www.npmjs.com/sass)|v1.60.0|03/25/23|David Miller |MIT|N/A|
 |[shelljs](https://www.npmjs.com/shelljs)|v0.8.5|03/22/22|David Miller |BSD-3-Clause|N/A|
 |[upath](https://www.npmjs.com/upath)|v2.0.1|04/02/21|David Miller |MIT|N/A|
 
