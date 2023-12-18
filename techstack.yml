@@ -1,7 +1,8 @@
 repo_name: EmmanuStack/lpage
-report_id: f2dbce6792370b2eeb84d90edc355f1c
+report_id: 272b4ae1f35052f1225226a05720dcb8
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-15T12:54:41+00:00'
+timestamp: '2023-12-18T12:21:44+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: master
